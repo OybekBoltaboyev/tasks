@@ -1,0 +1,6 @@
+#print('"Nexia", "tico", "Damas" ko\'rganlar qilar havas')
+#print(f"5 ning 4-darajasi {5**4}")
+#print("22 ni 4 ga bo'lgandagi qoldiq", 22%4, "ga teng")
+#print("Tomonlari 125 ga teng bo'lgan kvadratning yuzi", 125**2,"va permietri", 125*4,"ga teng")
+#print("diametri 12 ga teng bo'lgan doiraning yuzi", (12/2)**2*3.14)
+print("katetlari 6 ga va 7 ga teng to'g'ri burchakli uchburchakning gipotenuzasi", (6**2 +7**2)**(1/2))
