@@ -1,24 +1,18 @@
-"""kocha = "Bog'bon"
-mahalla = "Sog'bon"
-tuman = "Bodomzor"
-viloyat = "Samarqand"
-print(
-    f"{kocha} ko'chasi, {mahalla} mahallasi, {tuman} tumani, {viloyat} viloyati"
-)"""
-"""kocha=input("Ko'changizni kiriting: ")
-mahalla=input("Mahallangizni kiriting: ")
-tuman=input("Tumaningizni kiriting: ")
-viloyat=input("Viloyatingizni kiriting: ")    
-print(f"{kocha} ko'chasi, {mahalla} mahallasi, {tuman} tumani, {viloyat} viloyati")"""
-"""kocha=input("Ko'changizni kiriting: ")
-mahalla=input("Mahallangizni kiriting: ")
-tuman=input("Tumaningizni kiriting: ")
-viloyat=input("Viloyatingizni kiriting: ")    
-print(f"{kocha} ko'chasi,\n{mahalla} mahallasi,\n{tuman} tumani,\n{viloyat} viloyati")"""
-'''kocha = input("Ko'changizni kiriting: ")
-mahalla = input("Mahallangizni kiriting: ")
-tuman = input("Tumaningizni kiriting: ")
-viloyat = input("Viloyatingizni kiriting: ")
-manzil = (f"{kocha} ko'chasi,\n{mahalla} mahallasi,\n{tuman} tumani,\n{viloyat} viloyati")
-print(manzil.capitalize())
-'''
+"""variable="Hello World! "
+print(variable)
+"""
+'''xabar="yuklangan matn"
+print(xabar)
+xabar="yangi matn"
+print(xabar)'''
+
+'''radius = 5
+pi = 3.14159
+yuza = pi*radius**2
+print("Radiusi", radius, "ga teng doira yuzi=", yuza)'''
+
+kocha="Bog'bon"
+mahalla="Sag'bon"
+tuman="Bodomzor"
+viloyat="Samarqand"
+print(f"{kocha} ko'chasi, {mahalla} mahallasi, {tuman} tumani, {viloyat} viloyati")

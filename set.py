@@ -33,7 +33,7 @@ for shaxs in shaxslar:
           f"{shaxs['asari']}"
           f"{shaxs['t-yili']}-yil {shaxs['t-joyi']}da tug'ilgan, ")'''
 
-'''davlatlar={
+davlatlar={
     'O\'zbekiston':{'poytaxti':'Toshkent', 'joylashgan mintaqasi':'Markaziy Osiyo', },
     'Turkiya':{'poytaxti':'Anqara','joylashgan mintaqasi':'G\'arbiy Osiyo'},
     'Qozog\'iston':{'poytaxti':'Ostona','joylashgan mintaqasi':'Markaziy Osiyo'}
@@ -41,5 +41,4 @@ for shaxs in shaxslar:
 davlat=input("davlat kirit: ")
 davlat=davlatlar.get(davlat, 'Bizda bu davlat haqida ma\'lumot yo\'q.')
 print(davlat)
-'''
 
